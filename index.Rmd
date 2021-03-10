@@ -1,9 +1,8 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "社會科學統計方法"
+author: "POYAOJUAN"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
 
